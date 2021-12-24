@@ -67,6 +67,11 @@ body {
   justify-content: space-between;
 }
 
+h4,p {
+
+  margin-bottom: .7rem;
+}
+
 .add-form {
   margin-bottom: 40px;
 }
@@ -105,6 +110,20 @@ body {
 footer {
   margin-top: 30px;
   text-align: center;
+}
+
+.link {
+  background-color: hsla(214, 64%, 66%, 0.794);
+  padding: .3rem 1rem;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  border-radius: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.link:hover {
+  opacity: .8;
 }
 
 @media (max-width:768px) {
