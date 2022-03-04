@@ -1,5 +1,6 @@
 # Tasks Manager
 
+<!-- <img src="https://github.com/monztercoder/Tasks-Manager/blob/main/task.gif"> -->
 ## Description
 - Save your Daily Tasks and Revisit them anytime you forget one.
 - Edit and Delete After you've Completed them.
